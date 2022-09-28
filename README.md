@@ -28,7 +28,7 @@ How to use Triple Linear Regression Model
 
 Users can download the latest Triple Linear Regression Model Matlab toolbox from Github:
 
-https://github.com/Huayangcai/ Triple-Linear-Model-V1.0-Matlab-Toolbox.git
+https://github.com/Huayangcai/Triple-Linear-Regression-Model-V1.0-Matlab-Toolbox
 
 2.	Triple Linear Regression Model Demo
 
