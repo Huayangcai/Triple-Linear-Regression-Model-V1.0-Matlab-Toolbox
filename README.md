@@ -1,5 +1,5 @@
 # Triple-Linear-Regression-Model-V1.0-Matlab-Toolbox
-A Triple linear regression model Matlab toolbox for quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the Yangtze River estuary
+A Triple linear regression model Matlab toolbox for quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the upper Yangtze River estuary
 Huayang Cai
 
 Institute of Estuarine and Coastal Research, School of Ocean Engineering and Technology, Sun Yat-sen University, Guangzhou, 510275, China
@@ -8,7 +8,7 @@ Correspondence: Huayang Cai (caihy7@mail.sysu.edu.cn)
 2022/09/28
 
 
-A Triple linear regression model Matlab toolbox for quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the Yangtze River estuary.
+A Triple linear regression model Matlab toolbox for quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the upper Yangtze River estuary.
 Version 1.0 - September 2022
 
 Provided by Huayang Cai
@@ -19,7 +19,7 @@ Email contacts: caihy7@mail.sysu.edu.cn
 
 How to cite:
 
-- Huayang Cai, Hao Yang, Pascal Matte, Haidong Pan, Zhan Hu, Tongtiegang Zhao, and Guangliang Liu (2022), Quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the upper Yangtze River estuary, OS, submitted
+- Huayang Cai, Hao Yang, Pascal Matte, Haidong Pan, Zhan Hu, Tongtiegang Zhao, and Guangliang Liu (2022), Quantifying the impacts of the Three Gorges Dam on the spatial-temporal water level dynamics in the upper Yangtze River estuary, OS Discussion, submitted (https://doi.org/10.5194/egusphere-2022-175)
 
 
 How to use Triple Linear Regression Model 
